@@ -1,0 +1,146 @@
+[
+  {
+    "blogId": 1,
+    "title": "Learn Redux with Sumit Dada",
+    "category": "Redux",
+    "author": {
+      "name": "Sumit Saha",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "createdOn": "20/08/22",
+      "duration": 10
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 2,
+    "title": "Learn React with Anisul Islam",
+    "category": "React",
+    "author": {
+      "name": "Anisul Islam",
+      "avatar": "https://png.pngtree.com/png-clipart/20190604/original/pngtree-team-logo-psd-material-png-image_1649194.jpg",
+      "createdOn": "21/08/22",
+      "duration": 20
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 3,
+    "title": "Learn Web Design with Creative",
+    "category": "Web Design",
+    "author": {
+      "name": "Creative",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/5/53/Wikimedia-logo.png",
+      "createdOn": "22/08/22",
+      "duration": 30
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 4,
+    "title": "Web Development with Syltech",
+    "category": "Web Development",
+    "author": {
+      "name": "Syltech",
+      "avatar": "https://p.kindpng.com/picc/s/19-196401_comunidad-de-wikimedia-logo-lgbt-apoyo-smbolo-globalization.png",
+      "createdOn": "20/08/22",
+      "duration": 50
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 5,
+    "title": "Frontend Development with LMS",
+    "category": "Frontend Development",
+    "author": {
+      "name": "L M Singh",
+      "avatar": "https://e7.pngegg.com/pngimages/265/736/png-clipart-circle-angle-purple-creative-warehouse-logo-design-miscellaneous-png-material.png",
+      "createdOn": "20/08/22",
+      "duration": 40
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 6,
+    "title": "Backend Development with RMS",
+    "category": "Backend Development",
+    "author": {
+      "name": "R M Linda",
+      "avatar": "https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-c-letter-logo-design-free-vector-png-png-image_4928182.png",
+      "createdOn": "20/08/22",
+      "duration": 60
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 7,
+    "title": "React-Redux with Sumit Dada",
+    "category": "Redux",
+    "author": {
+      "name": "Sumit Saha",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "createdOn": "20/08/22",
+      "duration": 10
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 8,
+    "title": "React Nativ with Anisul Islam",
+    "category": "React",
+    "author": {
+      "name": "Anisul Islam",
+      "avatar": "https://png.pngtree.com/png-clipart/20190604/original/pngtree-team-logo-psd-material-png-image_1649194.jpg",
+      "createdOn": "21/08/22",
+      "duration": 20
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 9,
+    "title": "Web Design UI/UX with Creative",
+    "category": "Web Design",
+    "author": {
+      "name": "Creative",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/5/53/Wikimedia-logo.png",
+      "createdOn": "22/08/22",
+      "duration": 30
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 10,
+    "title": "Web App Development with Syltech",
+    "category": "Web Development",
+    "author": {
+      "name": "Syltech",
+      "avatar": "https://p.kindpng.com/picc/s/19-196401_comunidad-de-wikimedia-logo-lgbt-apoyo-smbolo-globalization.png",
+      "createdOn": "20/08/22",
+      "duration": 50
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 11,
+    "title": "UI/UX Development with LMS",
+    "category": "Frontend Development",
+    "author": {
+      "name": "L M Singh",
+      "avatar": "https://e7.pngegg.com/pngimages/265/736/png-clipart-circle-angle-purple-creative-warehouse-logo-design-miscellaneous-png-material.png",
+      "createdOn": "20/08/22",
+      "duration": 40
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  },
+  {
+    "blogId": 12,
+    "title": "Full Stack Development with RMS",
+    "category": "Backend Development",
+    "author": {
+      "name": "R M Linda",
+      "avatar": "https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-c-letter-logo-design-free-vector-png-png-image_4928182.png",
+      "createdOn": "20/08/22",
+      "duration": 60
+    },
+    "coverImg": "https://img.youtube.com/vi/qq1OO3m7hAE/hqdefault.jpg"
+  }
+]
